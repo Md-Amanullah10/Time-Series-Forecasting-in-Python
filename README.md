@@ -1,3 +1,10 @@
-Time series forecasting in machine learning refers to the practice of using historical data points ordered by time to predict future values.
+Introduction
+Time series forecasting is crucial in financial markets, especially for predicting gold prices. In this project, we use Linear Regression and Naïve Bayes Theorem to analyze and forecast gold prices based on historical data.
 
-Gold price forecasting using time series is a statistical technique that involves analyzing historical data to predict future trends in the price of gold. This approach relies on mathematical models to identify patterns and trends in the data and use them to make predictions about future prices.
+Objective:
+1.Load and preprocess a gold price dataset.
+2.Apply Linear Regression for trend prediction.
+3.Use Naïve Bayes to classify price movements (Up/Down).
+4.Evaluate model performance using appropriate metrics.
+
+
