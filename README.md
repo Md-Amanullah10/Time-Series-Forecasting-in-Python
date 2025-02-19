@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 Time series forecasting is crucial in financial markets, especially for predicting gold prices. In this project, we use Linear Regression and Naïve Bayes Theorem to analyze and forecast gold prices based on historical data.
 
 Objective:
